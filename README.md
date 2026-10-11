@@ -23,7 +23,7 @@ A digital mapping application designed for beekeeping and agriculture, providing
 
 **Technologies:** C#, JavaScript, HTML, CSS.
 
-### 🧠 Quiz Service
+### Quiz Service
 **Team project**
 
 A quiz service developed as a distributed-systems project.
